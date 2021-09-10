@@ -509,7 +509,4 @@ button {
 .hidden {
   display: none;
 }
-html[theme='dark-mode'] img{
-    filter: invert(1) hue-rotate(180deg);
-}
 /*# sourceMappingURL=style.css.map */
