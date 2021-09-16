@@ -277,11 +277,13 @@ button {
   padding: 9px 20px;
   background-color: #191970;
   margin: 0 -20px 20px -20px;
+  color: #ffffff;
 }
 
 .section-title__stage {
   display: inline-block;
   margin-right: 2rem;
+  color: #ffffff
 }
 
 .section-title--keycolorlight {
@@ -294,11 +296,13 @@ button {
 
 .section-title--keycolor {
   background-color: #191970;
+  color: #ffffff;
 }
 
 .section-title--story {
   width: 330px;
   margin: 0 auto 20px;
+  color: #ffffff;
 }
 
 .section-title--border {
